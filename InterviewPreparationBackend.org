@@ -28,7 +28,6 @@ addSix(21); // returns 27
    #+end_src
 
 10. Fizzbuzz challenge: Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5.
-
 11. Given two strings, return true if they are anagrams of one another.
 12. How would you use a closure to create a private counter?
 13. What would be the following code output?
