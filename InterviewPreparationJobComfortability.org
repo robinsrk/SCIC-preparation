@@ -1,0 +1,52 @@
+#+TITLE: Interview Preparation Job Comfortability
+#+latex_header: \usepackage[margin=1in]{geometry}
+#+options: toc:nil
+
+* [[https://remoteok.io/remote-jobs/103827-remote-react-developer-rebelcode-ltd][React Developer]]
+|---+-------------------+----------------|
+| / | <>                | >              |
+|   | *Comfortable*     | *Should learn* |
+|---+-------------------+----------------|
+|   | React             | Webpack        |
+|   | Modern Javascript |                |
+|   | Modern CSS        |                |
+|---+-------------------+----------------|
+|   | *Familiar*        | *No idea*      |
+|---+-------------------+----------------|
+|   | Typescript        |                |
+|   | Redux             |                |
+|   | English           |                |
+|---+-------------------+----------------|
+
+* [[https://www.indeed.com/viewjob?jk=b72e707d06663e2b&tk=1f6m8e16vo25e801&from=serp&vjs=3][React Developer]]
+|---+---------------+-------------------|
+| / | <>            | >                 |
+|   | *Comfortable* | *Should learn*    |
+|---+---------------+-------------------|
+|   | React         |                   |
+|   | HTML          |                   |
+|   | Modern CSS    |                   |
+|   | ES6           |                   |
+|   | Git           |                   |
+|---+---------------+-------------------|
+|   | *Familiar*    | *No idea*         |
+|---+---------------+-------------------|
+|   | NextJS        | Webpack           |
+|   | Tailwind      | Web Accessibility |
+|   | English       | Atlassian suite   |
+|---+---------------+-------------------|
+
+* [[https://www.indeed.com/rc/clk?jk=0bda2a0e627c8c9a&fccid=0c213b537d8bfffd&vjs=3][Junior Web Developer]]
+|---+------------------------+----------------|
+| / | <>                     | >              |
+|   | *Comfortable*          | *Should learn* |
+|---+------------------------+----------------|
+|   | React                  |                |
+|   | JavaScript Programming |                |
+|   | HTML/CSS               |                |
+|   | NoSQL                  |                |
+|---+------------------------+----------------|
+|   | *Familiar*             | *No idea*      |
+|---+------------------------+----------------|
+|   | English                |                |
+|---+------------------------+----------------|
