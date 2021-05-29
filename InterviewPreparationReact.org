@@ -1,0 +1,42 @@
+#+TITLE: Interview Preparation React
+#+options: toc:nil num:nil
+
+* React Interview Question
+1. What is React?
+2. What are the major features of React?
+3. What is JSX?
+4. Can web browsers read JSX directly?
+5. What are pure components?
+6. What is the difference between state and props?
+7. What is the purpose of callback function as an argument of setState()?
+8. What are synthetic events in React?
+9. What is the use of refs? How to use it?
+10. What is Virtual DOM? How does it work?
+11. What is React Fiber? What is the main goal of it?
+12. What are controlled and uncontrolled components?
+13. What is Context?
+14. What is reconciliation?
+15. Is lazy function supports named exports?
+16. What are fragments?
+17. What are portals in React?
+18. What are stateful and stateless components?
+19. What are the advantages and disadvantages of React?
+20. What is the use of react-dom package?
+21. How to use decorators in React?
+22. What is CRA and it's benefits?
+23. How to enable production mode in React?
+24. What is switching component?
+25. What is strict mode in React?
+26. How to loop inside JSX?
+27. What is React Mixins?
+28. What are the Pointer Events supported in React?
+29. How to listen to state changes?
+30. What are hooks?
+31. What are the rules needs to follow for hooks?
+32. Do you need to rewrite all the class components with hooks?
+33. How to fetch data with React Hooks?
+34. What is React Scripts?
+35. What are the benefits of using typescript with ReactJS?
+36. What is the purpose of eslint plugin for hooks?
+37. What are React Server components?
+38. What is Concurrent Rendering?

@@ -1,0 +1,43 @@
+#+TITLE: Interview Question Css
+#+OPTIONS: num:nil toc:nil author:nil date:nil
+#+LATEX_HEADER: \usepackage[top=0.5in, left=0.5in, bottom=0.5in, right=0.5in]{geometry}
+
+* CSS interview questions
+1. What is CSS
+2. What is the Box model in CSS?
+3. Which CSS properties are a part of Box model?
+4. What does float do?
+5. How can you clear sides of a floating element?
+6. some tricky questions in rapid fire style.
+7. Are CSS rule names case sensitive?
+8. Why CSS selectors mixed up with cases don't apply the styles?
+9. Does margin-top or margin-bottom has effect on inline element?
+10. Does padding-top or padding-bottom has effect on inline element?
+11. does padding-left or padding-right or margin-left or margin-right has effect on inline element?
+12. If you have a <p> element with font-size: 10rem, will the text be responsive when the user resizes / drags the browser window?
+13. The pseudo class :checked will select inputs with type radio or checkbox, but not <option> elements.
+14. In a HTML document, the pseudo class :root always refers to the <html> element.
+15. The translate() function can move the position of an element on the z-axis.
+16. Which one would you prefer among px, em % or pt and why?
+17. How absolute, relative, fixed and static position differ?
+18. What are the differences between visibility: hidden and display: none?
+19. What are the differences between inline, block and inline-block?
+20. What are the properties related to box model?
+21. Does overflow: hidden create a new block formatting
+22. How could you apply CSS rules specific to a media?
+23. What is the use of only?
+24. Does the screen keyword apply to the device's physical screen or the browser's viewport?
+25. What are the some pseudo classes you have used?
+26. How do you align a p center-center inside a div?
+27. How do you optimize CSS selectors?
+28. How can you load CSS resources conditionally?
+29. How would you use sprites?
+30. What is specificity? How do you calculate specificity?
+31. What is shadow DOM?
+32. What do you know about transition?
+33. What are the different CSS filter you can use?
+34. What are the reasons to use preprocessor?
+35. Show you couple of style example and you have to tell what does it do.
+36. What are the advantages of using CSS?
+37. What are the limitations of CSS?
+38. How to include CSS in the webpage?

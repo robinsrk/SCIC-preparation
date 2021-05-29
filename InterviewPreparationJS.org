@@ -1,0 +1,57 @@
+#+TITLE: Interview Preparation Js
+#+latex_header: \usepackage[0.5in]{geometry}
+#+options: num:nil toc:nil
+
+* Interview Question JavaScript
+1. What is JavaScript?
+2. Enumerate the differences between Java and JavaScript?
+3. What are JavaScript data types?
+4. How would you compare two objects in JavaScript?
+5. What is the use of isNaN function?
+6. As [] is true, [] == true should also be true. right?
+7. How could you write a method on instance of a date which will give you next day?
+8. Which is faster between JavaScript and an ASP script?
+9. What is negative infinity?
+10. Is it possible to break JavaScript Code into several line?
+11. Which company developed JavaScript?
+12. What are Undeclared and undefined variables?
+13. What is global variable? How to declare global variable?
+14. What is prompt box?
+15. What is the working timers in JavaScript?
+16. Which symbols are used to comment in JavaScript?
+17. What is the difference between viewstate and sessionstate in JavaScript?
+18. Does JavaScript support automatic type conversion?
+19. How could you cache execution of any function?
+20. What is called Variable typing in JavaScript?
+21. How could you implement moveLeft animation?
+22. How would you implement currying for any functions?
+23. Verify a prime number.
+24. Find all prime factors of a number.
+25. Get nth Fibonacci number.
+26. Find the greatest common divisor of two numbers.
+27. Remove duplicate members from an array.
+28. Merge two sorted array.
+29. Swap two numbers without using a temp variable.
+30. Reverse a string in JavaScript.
+31. How would you reverse words in a sentence?
+32. Reverse words in place.
+33. Find the first non repeating char in a string.
+34. Remove duplicate characters from a string.
+35. How will you verify a word as palindrome?
+36. Generate random between 5 to 7 by using defined function.
+37. Find missing number from unsorted array of integers.
+38. Get two numbers that equal to a given number.
+39. Find the largest sum of any two elements
+40. Total number of zeroes from 1 upto n.
+41. check whether a given string is a substring of bigger string.
+42. Get permutations of a string.
+43. What is the event loop? Can you draw a simple diagram to explain event loop?
+44. How do you explain closure?
+45. How would you make sure value of this works correctly inside setTimeout
+46. What are the different possible values for this?
+47. What is debounce and how could you implement debounce?
+48. How would you communicate with server?
+49. Explain Promise.
+50. If an website is slow how and what would you do to make it faster?
+51. What ES^ feature do you use other than let, var and arrow?
+52. What build tool you use and tell me some advantages to use that build tool.

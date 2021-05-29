@@ -1,0 +1,47 @@
+#+TITLE: Interview Preparation Backend
+#+options: num:nil toc:nil
+
+* JavaScript Coding Questions
+1. Explain what a callback function is and provide a simple example.
+2. Given a string, reverse each word in the sentence.
+3. How to check if an object is an array or not? provide code.
+4. How to empty an array in JavaScript?
+5. How would you check if a number is an integer?
+6. Implement enqueue and dequeue using only two stacks?
+7. Make this work
+   #+begin_src js
+duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
+console.log("hello");
+   #+end_src
+
+8. Write a "mul" function which will properly when invoked as below syntax
+   #+begin_src js
+console.log(mul(2)(3)(4)); // output: 24
+console.log(mul(4)(3)(4)); // output: 48
+   #+end_src
+
+9. Write a function that would allow you to do this
+   #+begin_src js
+var addSix = createBase(6);
+addSix(10); // returns 16
+addSix(21); // returns 27
+   #+end_src
+
+10. Fizzbuzz challenge: Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5.
+
+11. Given two strings, return true if they are anagrams of one another.
+12. How would you use a closure to create a private counter?
+13. What would be the following code output?
+    #+begin_src js
+(function(){
+  var a = b = 5;
+})();
+
+console.log(b);
+    #+end_src
+
+14. How this keyword works? Provide some example.
+15. Write a function that would allow you to do this
+    #+begin_src js
+multiply(5)(6);
+    #+end_src

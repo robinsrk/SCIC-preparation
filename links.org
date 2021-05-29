@@ -1,0 +1,35 @@
+#+TITLE: Links
+
+* Remote job
+1. Remotive.io
+2. WeWorkRemotely
+3. RemoteOk
+4. Working Nomads
+5. Just Remote
+6. AngelList
+7. StackOverflow
+8. GitHub Jobs
+9. Indeed
+10. FlexJobs
+
+* Job
+1. LinkedIn
+2. Indeed
+3. Naukri
+4. Instahyre
+5. Monster
+6. Careercloud
+7. Dice
+8. CareerBuilder
+9. Jibberjobber
+10. Glassdoor
+
+* CSS tools
+1. cubic-bezier.com
+2. cssgenerator.org
+3. blobmaker.app
+4. getwaves.io
+5. neumorphism.io
+6. glassmorphism.com
+7. cssfiltergenerator.com
+8. bennettfeely.com/clippy

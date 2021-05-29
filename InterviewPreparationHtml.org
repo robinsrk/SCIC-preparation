@@ -1,0 +1,62 @@
+#+TITLE: Interview Questions HTML
+#+options: num:0
+#+LATEX_HEADER: \usepackage[right=0.5in, left=0.5in, top=0.5in, bottom=0.5in]{geometry}
+* HTML Questions @@latex: \addcontentsline{toc} {section} {HTML Questions}@@
+1. What is HTML
+2. What are tags
+3. Do all HTML tags have an end tag?
+4. What is formatting in HTML?
+5. How many types of heading does an HTML contain?
+6. How to create a hyperlink in HTML?
+7. Which HTML tag is used to display the data in the tabular form?
+8. What are some common lists that are used when designing a page?
+9. What is the difference between HTML elements and tags?
+10. What is semantic HTML?
+11. What are semantic elements?
+12. What are non semantic elements?
+13. What is an image map?
+14. How to insert a copyright symbol on a browser page?
+15. How to create a nested Webpage in HTML?
+16. How do you keep list elements straight in an HTML file?
+17. Does a hyperlink only apply to text?
+18. What is a style sheet?
+19. Can you create a multi-colored text on a web page?
+20. Is it possible to change the color of the bullet?
+21. Explain the layout of HTML?
+22. <header>: It is used to define a header for a document or a section.
+23. What is a marquee?
+24. How many tags can be used to separate a section of texts?
+25. What are empty elements?
+26. What is the use of a span tag? Give one example.
+27. What are the entities in HTML?
+28. Why is a URL encoded in HTML?
+29. Does a <!DOCTYPE html> tag is a HTML tag?
+30. What is the canvas element in HTML5?
+31. What is SVG?
+32. What are the different new form element types in HTML5?
+33. Is there any need to change the web browsers to support HTML5?
+34. Which type of video formats are supported by HTML5?
+35. Is audio tag supported in HTML5?
+36. What is the difference between progress and meter tag?
+37. What is the use of figure tag in HTML5?
+38. What is the use of figcaption tag in HTML5?
+39. What is button tag?
+40. What is the use of details and summary tag?
+41. What is datalist tag?
+42. How are tags migrated from HTML4 to HTML5?
+43. If you do not put <!DOCTYPE html>, will HTML5 work?
+44. Why do you need doctype?
+45. What are data-* attributes used for?
+46. How can you generate a public key in html?
+47. How do you change the direction of html text?
+48. How can you highlight text in html?
+49. Can you apply CSS to a part of html document only?
+50. Will a browser make http request for the following cases?
+51. Which resource would be downloaded first?
+52. What is an optional tag?
+53. What are the differences between div and span?
+54. How would you differentiate between div, section, and article?
+55. How would you select svg or canvas for your site?
+56. How to serve html in multiple languages?
+57. Explain standard and quirks mode.
+58. What is a semantic tag?

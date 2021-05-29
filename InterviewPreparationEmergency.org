@@ -1,0 +1,50 @@
+#+TITLE: Interview Preparation Emergency
+
+#+latex_header: \usepackage[margin=1in]{geometry}
+#+latex_header: \setcounter{secnumdepth}{0}
+
+* HTML questions
+1. What is HTML
+2. What are tags
+3. Do all HTML tags have an end tag?
+4. What is formatting in HTML?
+5. How many types of heading does an HTML contain?
+6. How to create a hyperlink in HTML?
+7. Which HTML tag is used to display the data in the tabular form?
+8. What are some common lists that are used when designing a page?
+
+* CSS questions
+1. What is CSS
+2. What is the Box model in CSS?
+3. Which CSS properties are a part of Box model?
+4. What does float do?
+5. How can you clear sides of a floating element?
+6. some tricky questions in rapid fire style.
+7. Are CSS rule names case sensitive?
+8. Why CSS selectors mixed up with cases don't apply the styles?
+9. Does margin-top or margin-bottom has effect on inline element?
+10. Does padding-top or padding-bottom has effect on inline element?
+11. does padding-left or padding-right or margin-left or margin-right has effect on inline element?
+12. If you have a <p> element with font-size: 10rem, will the text be responsive when the user resizes / drags the browser window?
+
+* JavaScript questions
+1. What is JavaScript?
+2. Enumerate the differences between Java and JavaScript?
+3. What are JavaScript data types?
+4. How would you compare two objects in JavaScript?
+5. What is the use of isNaN function?
+6. As [] is true, [] == true should also be true. right?
+7. How could you write a method on instance of a date which will give you next day?
+8. Which is faster between JavaScript and an ASP script?
+9. What is negative infinity?
+10. Is it possible to break JavaScript Code into several line?
+11. Which company developed JavaScript?
+12. What are Undeclared and undefined variables?
+13. What is global variable? How to declare global variable?
+14. What is prompt box?
+15. What is the working timers in JavaScript?
+16. Which symbols are used to comment in JavaScript?
+17. What is the difference between viewstate and sessionstate in JavaScript?
+18. Does JavaScript support automatic type conversion?
+19. How could you cache execution of any function?
+20. What is called Variable typing in JavaScript?
